@@ -1,0 +1,3 @@
+C:\temp\PEOO_VS\Aula03\RetânguloApp\obj\Debug\net5.0-windows\RetânguloApp.csproj.AssemblyReference.cache
+C:\temp\PEOO_VS\Aula03\RetânguloApp\obj\Debug\net5.0-windows\App.g.cs
+C:\temp\PEOO_VS\Aula03\RetânguloApp\obj\Debug\net5.0-windows\RetânguloApp_MarkupCompile.cache
